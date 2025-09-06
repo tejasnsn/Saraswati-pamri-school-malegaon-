@@ -1,2 +1,1 @@
-# Saraswati-pamri-school-malegaon-
-Malegaon 
+https://username.github.io/RepositoryName
